@@ -1,0 +1,7 @@
+# ignore venv directory
+env/
+venv/
+venv.off.bat
+venv.on.bat
+venv_off.bat
+venv_on.bat
